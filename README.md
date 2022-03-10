@@ -2,4 +2,4 @@
 
 Aprendendo GitHub
 
-Alterando
+Alterando Remotamente Diretamente no Github
